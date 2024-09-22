@@ -1,2 +1,2 @@
 # C-notes
- Notes on C languag covering from basics to strcutures and algorithms
+ Notes on C language covering from the basics to structures and algorithms
