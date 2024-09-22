@@ -1,0 +1,94 @@
+// 5 3 2 8 1
+
+//         HAHAH
+//         AHAHA
+//         HAHAH
+// AHAHAHAHLOLOLA
+// HAHAHAHAOLOLOH
+// AHAHAHAHLOLOLA
+// HAHAHAHAOLOLOH
+// AHAHAHAHLOLOLA
+//         HAHAH
+//         AHAHA
+
+
+// 5 5 10 10
+
+
+
+
+
+
+
+
+
+
+
+
+Employee Details:
+Employee No
+Name
+Department
+Pay Period
+Position
+Rank
+
+Earnings:
+- Basic Income
+- Basic Pay - NT
+- Position Pay
+- Teaching 2
+- Teaching Load
+- Salary Adjustment/Holiday Pay
+- Honorarium - Academic Heads
+- Other Honorarium - Committee Member
+- Other Honorarium - Global Acctncy
+- Other Honorarium - Other Coord.
+- Other Honorarium - Others
+- Longevity Pay
+- PhD Premium
+- Law Premium
+- MA Premium
+- Subject Premiums - Accountancy
+- Subject Premiums - BA
+- Subject Premiums - Engineering/CAFA
+- Subject Premiums - Graduate
+- Subject Premiums - Math/CS
+- Salary Overpayment
+- Over Payment (a)
+
+
+Deductions:
+- SSS Premium
+- SSS Salary Loan
+- SSS Provident Fund
+- SSS Calamity Loan
+- Philhealth Premium
+- Pag-Ibig Premium
+- Pag-ibig Housing Loan
+- Pag-Ibig Multi Purpose Loan
+- Pag-Ibig Calamity Loan
+- Pag-Ibig Fund Voluntary
+- Employee Compensation
+- Withholding Tax
+- USC Salary Loan
+- USC Computer Loan
+- USC DWEA Retirement Contribution
+- USC Retirement Loan Interest
+- School Fees
+- Textbook
+- Health Care
+- Interest on Loans Receivable
+- Philam Insurance
+- Coop Grocery Loan
+- Credit Union Multi-Purpose Loan
+- Credit Union Premium
+- Credit Union Salary Loan
+- CFIU Dues
+- Adea Others
+- Agency Fee
+- CFA Dues & Mortuary
+- Miscellaneous
+
+
+ctr + alt + down/up arrow
