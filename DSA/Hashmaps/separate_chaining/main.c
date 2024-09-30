@@ -13,7 +13,6 @@ int main(){
     insert(&tbl, createStudent(21700257, "Madoka", "BSIS", 2006));
     insert(&tbl, createStudent(21700258, "Hano", "BSCS", 2003));
     insert(&tbl, createStudent(21700258, "Kanata", "BSCS", 2003));
-    insert(&tbl, createStudent(21700258, "Kanata", "BSCS", 2003));
 
 
 

@@ -31,6 +31,28 @@ void initDictionary(HashTable *ht){
     }
 }
 
+// bool insert(HashTable *ht, Student s){
+//     int i = getHash(s);
+//     NodePtr node = malloc(sizeof(NodeType));
+//     node->link = NULL;
+//     node->stud = s;
+
+//     NodePtr curr = NULL;
+//     if(ht->elems[i] == NULL){
+//         ht->elems[i] = node;
+//     } else {
+//         for(curr = ht->elems[i]; curr->link != NULL; curr = curr->link){
+//             printf("\nTest");
+//             if(node->stud.studID == curr->link->stud.studID){
+//                 free(node);
+//                 return false;
+//                 }
+//         }
+//         curr->link = node;
+//     }
+
+//     return true;
+// }
 bool insert(HashTable *ht, Student s){
     int i = getHash(s);
     NodePtr node = malloc(sizeof(NodeType));
@@ -42,11 +64,11 @@ bool insert(HashTable *ht, Student s){
         ht->elems[i] = node;
     } else {
         for(curr = ht->elems[i]; curr->link != NULL; curr = curr->link){
-            printf("\nTest");
+            // printf("\nTest");
             if(node->stud.studID == curr->link->stud.studID){
-                free(node);
+                free(node); 
                 return false;
-                }
+            }
         }
         curr->link = node;
     }
