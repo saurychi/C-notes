@@ -64,6 +64,21 @@ void display(Queue q){
     printf("\n}");
 }
 
+
+// doesnt work
+// void display(Queue q){
+//     NodePtr temp;
+//     printf("Linked Queue List{ \n");
+//     int id = front(q).studID;
+//     do {
+//         printf("\t%s, %s\n", front(q).structName.lname, front(q).structName.fname);
+//         dequeue(&q);
+//         id = front(q).studID;
+//         enqueue(&q, front(q));
+//     } while(front(q).studID != id);
+//     printf("\n}");
+// }
+
 bool enqueue(Queue *q, Data d){
     NodePtr n = malloc(sizeof(NodeType));
     if(n != NULL){

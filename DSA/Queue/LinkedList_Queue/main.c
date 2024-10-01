@@ -47,8 +47,8 @@ int main()
 
     // visualize(studq);
     display(studq);
-    // printf("\n\n-------------\n\n");
-    // display(studq);
+    printf("\n\n-------------\n\n");
+    display(studq);
 
 
     return 0;
