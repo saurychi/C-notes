@@ -1,9 +1,6 @@
 {
-    "files.associations": {
-        "*.ejs": "html",
-        "time.h": "c",
-        "stdlib.h": "c"
-    },
-    "editor.tabSize": 2,
-    "editor.insertSpaces": true
+  "files.associations": {
+    "*.ejs": "html",
+    "algorithm": "c"
+  }
 }

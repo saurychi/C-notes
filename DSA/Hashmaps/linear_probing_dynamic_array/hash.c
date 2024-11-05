@@ -45,7 +45,7 @@ bool addHash(Hash* h, char* string){
     strcpy(temp->name, string);
 
     if(h->elems[i] != NULL){
-        i++;
+        i += i + 1 % h->max;
     }
     h->elems[i] = temp;
 

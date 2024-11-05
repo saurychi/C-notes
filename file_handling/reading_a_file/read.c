@@ -12,6 +12,7 @@ int main(){
     // check if file being read exists
     if(pF == NULL){
         printf("Unable to open file!\n");
+        return 1;
     } else {
         return 0;
     }
